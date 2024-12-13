@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6f9a0dfcf91ea10c",
+        "id": "1c36bbc9f93ca42f",
         "type": "tabs",
         "children": [
           {
-            "id": "d73bb33d1ae08bc3",
+            "id": "105f37255d602bc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Story/Tome of the Veil.md",
+                "file": "01 - Story/Tower Guide.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tome of the Veil"
+              "title": "Tower Guide"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Story/Tome of the Veil.md"
+                "file": "01 - Story/Tower Guide.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tome of the Veil"
+              "title": "Outline of Tower Guide"
             }
           }
         ],
@@ -162,35 +162,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d73bb33d1ae08bc3",
+  "active": "105f37255d602bc5",
   "lastOpenFiles": [
-    "01 - Story/Silent Night, Eldritch Fight.md",
-    "01 - Story/Tower Guide.md",
     "01 - Story/Tome of the Veil.md",
+    "01 - Story/Silent Night, Eldritch Fight.md",
     "01 - Story/Setting Details.md",
     "01 - Story/Random Clues.md",
+    "03 - Characters/Archive/Available Characters/TinyD6.md",
+    "03 - Characters/Archive/Available Characters/Non-TinyD6.md",
+    "02 - Clues/Ritual Notes.md",
+    "02 - Clues/Staff Member's Warning.md",
+    "02 - Clues/Research Log Entry 21-2024.md",
+    "02 - Clues/Red Queen Quarantine Alert.md",
+    "02 - Clues/PDA Note.md",
+    "02 - Clues/Partial Map.md",
+    "02 - Clues/Override Code.md",
+    "02 - Clues/Observation Log 117.md",
+    "02 - Clues/Mysterious Coordinates.md",
+    "02 - Clues/Diary Entry.md",
+    "02 - Clues/Cryptic Wall Scribblings.md",
+    "02 - Clues/Containment Log - Final Entry.md",
+    "02 - Clues/Artifact Hidden Function.md",
+    "01 - Story/Tower Guide.md",
     "05 - Afflictions/Affliction  Table.md",
     "05 - Afflictions/Afflictions.md",
     "05 - Afflictions",
     "03 - Characters/Archive/Dead/Dead Characters.md",
-    "02 - Clues/Mysterious Coordinates.md",
-    "02 - Clues/Research Log Entry 21-2024.md",
-    "02 - Clues/Diary Entry.md",
-    "02 - Clues/Ritual Notes.md",
-    "02 - Clues/Staff Member's Warning.md",
-    "02 - Clues/Override Code.md",
-    "02 - Clues/Artifact Hidden Function.md",
     "Untitled.md",
-    "02 - Clues/Partial Map.md",
     "asd.md",
-    "02 - Clues/Red Queen Quarantine Alert.md",
-    "02 - Clues/PDA Note.md",
-    "02 - Clues/Observation Log 117.md",
-    "02 - Clues/Cryptic Wall Scribblings.md",
-    "02 - Clues/Containment Log - Final Entry.md",
     "02 - Clues",
-    "03 - Characters/Archive/Available Characters/TinyD6.md",
-    "03 - Characters/Archive/Available Characters/Non-TinyD6.md",
     "03 - Characters/Archive/Available Characters",
     "03 - Characters/Archive/Dead",
     "03 - Characters/Archive",
