@@ -1,0 +1,1 @@
+**PDA Note:** _"They’re lying to us. The artifact isn’t just some ancient relic—it’s alive. The lab team said it’s been dormant for weeks, but I swear I saw it pulse when they brought it in. Something isn’t right. I overheard Dr. Marlowe say it’s ‘reacting to external stimuli.’ If it wakes up... we’re all in danger."_

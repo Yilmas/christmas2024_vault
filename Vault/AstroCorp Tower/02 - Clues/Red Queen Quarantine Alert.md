@@ -1,0 +1,2 @@
+**Red Queen System Alert:**  
+_“Attention: Quarantine Protocol Theta-13 initiated. No unauthorized personnel may exit the premises. The facility will be lowered to Containment Depth Sigma-9. All attempts to leave will be met with countermeasures. This is for your safety. Do not interfere. Repeat: Do not interfere.”_
